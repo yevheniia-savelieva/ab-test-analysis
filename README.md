@@ -2,6 +2,7 @@
 
 ## 📊 Project Overview
 This project analyzes an A/B test to evaluate the impact of a 50% discount on user conversion rates.
+Dataset size: ~20,000 users
 
 ## 🎯 Goal
 Determine whether offering a discount significantly increases conversion from install to payment.
