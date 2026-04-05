@@ -32,3 +32,6 @@ Determine whether offering a discount significantly increases conversion from in
 
 ## ✅ Conclusion
 Discount significantly improves conversion rate and can be recommended for implementation.
+## ▶️ How to Run
+1. Open the notebook `Untitled4.ipynb`
+2. Run all cells in Google Colab or Jupyter Notebook
