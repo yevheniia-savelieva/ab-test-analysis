@@ -15,6 +15,7 @@ Determine whether offering a discount significantly increases conversion from in
 - Conversion Rate A: **6.1%**
 - Conversion Rate B: **8.9%**
 - Uplift: **+2.8%**
+- Business impact: Discount increases conversion by ~46% relative uplift
 
 ## 📊 Statistical Analysis
 - Performed independent samples t-test
